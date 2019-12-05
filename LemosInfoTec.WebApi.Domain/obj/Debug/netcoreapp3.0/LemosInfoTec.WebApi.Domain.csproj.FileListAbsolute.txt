@@ -1,0 +1,8 @@
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/bin/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Domain.deps.json
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/bin/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Domain.dll
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/bin/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Domain.pdb
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/obj/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Domain.csprojAssemblyReference.cache
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/obj/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Domain.AssemblyInfoInputs.cache
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/obj/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Domain.AssemblyInfo.cs
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/obj/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Domain.dll
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/obj/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Domain.pdb

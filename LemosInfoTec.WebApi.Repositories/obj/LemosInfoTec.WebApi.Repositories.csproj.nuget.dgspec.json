@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Repositories/LemosInfoTec.WebApi.Repositories.csproj": {}
+  },
+  "projects": {
+    "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/LemosInfoTec.WebApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/LemosInfoTec.WebApi.Domain.csproj",
+        "projectName": "LemosInfoTec.WebApi.Domain",
+        "projectPath": "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/LemosInfoTec.WebApi.Domain.csproj",
+        "packagesPath": "/home/edilemos/.nuget/packages/",
+        "outputPath": "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/edilemos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Repositories/LemosInfoTec.WebApi.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Repositories/LemosInfoTec.WebApi.Repositories.csproj",
+        "projectName": "LemosInfoTec.WebApi.Repositories",
+        "projectPath": "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Repositories/LemosInfoTec.WebApi.Repositories.csproj",
+        "packagesPath": "/home/edilemos/.nuget/packages/",
+        "outputPath": "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Repositories/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/edilemos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/LemosInfoTec.WebApi.Domain.csproj": {
+                "projectPath": "/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Domain/LemosInfoTec.WebApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

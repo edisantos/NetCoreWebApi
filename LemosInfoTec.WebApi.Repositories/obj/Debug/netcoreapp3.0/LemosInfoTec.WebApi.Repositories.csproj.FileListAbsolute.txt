@@ -1,0 +1,3 @@
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Repositories/obj/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Repositories.csprojAssemblyReference.cache
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Repositories/obj/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Repositories.AssemblyInfoInputs.cache
+/media/edilemos/Backup01/02-Projetos/03.Core/NetCoreWihtWebApi/LemosInfoTec.WebApi.Repositories/obj/Debug/netcoreapp3.0/LemosInfoTec.WebApi.Repositories.AssemblyInfo.cs
